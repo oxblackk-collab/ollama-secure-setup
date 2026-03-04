@@ -1,0 +1,8 @@
+# Credenciales y certificados - NUNCA subir
+*.key
+*.crt
+*.pem
+.htpasswd
+ollama-credentials.txt
+ollama-security.log
+.webui_secret_key
